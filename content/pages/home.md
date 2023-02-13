@@ -1,9 +1,9 @@
 ---
 template: HomePage
-slug: ''
+slug: ""
 title: Potrero ATV Tours
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+featuredImage: https://ucarecdn.com/84b4ad4a-1b6a-40a9-8e21-0357d6d66923/
+subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
