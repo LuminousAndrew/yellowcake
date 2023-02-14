@@ -21,7 +21,7 @@ const PageHeader = ({
           resolutions="large"
           src={backgroundImage}
           alt={title}
-          size="auto"
+          size="original"
         />
       )}
       <div className="container relative">
