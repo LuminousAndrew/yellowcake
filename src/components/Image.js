@@ -53,7 +53,7 @@ class Image extends React.Component {
   render() {
     let {
       background,
-      backgroundSize = 'auto',
+      backgroundSize = 'cover',
       resolutions = '1000x',
       className = '',
       src,
@@ -110,7 +110,7 @@ class Image extends React.Component {
               ref={this.ref}
               style={{
                 backgroundImage: `url(${smallSrc})`,
-                backgroundSize: 'auto'
+                backgroundSize: 'cover'
               }}
             >
               {!background && (
