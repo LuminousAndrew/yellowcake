@@ -9,7 +9,7 @@
 }
 
 .PageHeader-large {
-  padding: 20rem 0;
+  padding: 60rem 0;
 }
 
 .PageHeader--Title {
@@ -26,7 +26,7 @@
   animation: fadeIn 0.5s ease-out;
 }
 
-@media (max-width: 2000px) {
+@media (max-width: 1000px) {
   .PageHeader {
     padding: 7rem 0;
   }
