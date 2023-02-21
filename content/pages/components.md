@@ -1,9 +1,9 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
+title: Description Page
 featuredImage: https://ucarecdn.com/7c3faf6d-f03d-44a5-9481-688509ba57fd/
-subtitle: This is the components page subtitle.
+subtitle: Learn more about Portrero ATV Tours
 section1: >-
   ## This is a container component
 
