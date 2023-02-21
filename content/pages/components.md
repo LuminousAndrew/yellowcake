@@ -13,18 +13,16 @@ section2: >-
 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/i-WU3DDRAzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-video: https://ucarecdn.com/f1bd7526-9537-4d8e-bd2d-ce8d113e55b9/
-videoPoster: https://ucarecdn.com/dff89de8-47ff-465a-a799-9cf7cf87b7ac/
-videoTitle: Also background videos, with poster image & title overlay.
+video: https://ucarecdn.com/abd83a91-daee-4f66-a895-d23dfc6e4175/
+videoPoster: https://ucarecdn.com/40dec4a5-198d-4f9f-ac8d-7a0d90c79648/
+videoTitle: FAQs
 accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+  - description: Sample Info
+    title: What is all included in the tour?
+  - description: Sample Info
+    title: How long does a typical tour last?
+  - description: Sample Info
+    title: What makes Potrero ATV Tours unique?
 gallery:
   - alt: Native Flora and Fauna
     image: https://ucarecdn.com/923c7161-2d51-4d19-87f3-96f40d71ff9b/
