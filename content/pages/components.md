@@ -13,8 +13,8 @@ section2: >-
 
 
   <iframe src="https://drive.google.com/file/d/19sOAgmluvVKqo7tKbtcUUsGdtBG-e0Xq/preview" width="640" height="480" allow="autoplay"></iframe>
-video: https://ucarecdn.com/f1604a22-ec11-4afe-b338-5bb50f51cd32/
-videoPoster: https://ucarecdn.com/817d8d5f-16e0-4bf3-bae1-5c993acd2aba/
+video: https://ucarecdn.com/bb581ee3-9a0e-4d75-8f9d-b1c9ff7eeaeb/
+videoPoster: https://ucarecdn.com/59a4d95b-a30a-4aa9-b43f-1ef0b2008e30/
 videoTitle: Also background videos, with poster image & title overlay.
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
