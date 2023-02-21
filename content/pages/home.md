@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Potrero ATV Tours
-featuredImage: https://ucarecdn.com/84b4ad4a-1b6a-40a9-8e21-0357d6d66923/-/crop/1105x671/95,81/-/preview/
+featuredImage: https://ucarecdn.com/cf21fe3c-dcb0-41c3-a812-e3bc07783d68/
 subtitle: " Welcome to Portrero ATV Tours."
 meta:
   description: This is a meta description.
