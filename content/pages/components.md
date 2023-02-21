@@ -26,15 +26,15 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+  - alt: Native Flora and Fauna
+    image: https://ucarecdn.com/923c7161-2d51-4d19-87f3-96f40d71ff9b/
+    title: See the Native Flora and Fauna
+  - alt: Wilderness
+    image: https://ucarecdn.com/060c67b2-9005-4152-b9fd-a8be445e8f96/
+    title: Explore the Wilderness
+  - alt: Whole Family
+    image: https://ucarecdn.com/e69e3083-d9b5-42d4-b1f3-a063ccbc7132/
+    title: Fun for the Whole Family
 meta:
   description: This is a meta description.
   title: Components Page
