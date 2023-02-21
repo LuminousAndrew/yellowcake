@@ -9,7 +9,7 @@
 }
 
 .PageHeader-large {
-  padding: 60rem 0;
+  padding: 20rem 0;
 }
 
 .PageHeader--Title {
@@ -26,11 +26,18 @@
   animation: fadeIn 0.5s ease-out;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 40x) {
   .PageHeader {
+<<<<<<< HEAD
     padding: 1rem 0;
   }
   .PageHeader-large {
     padding: 1rem 0;
+=======
+    padding: 0rem 0;
+  }
+  .PageHeader-large {
+    padding: 12rem 0;
+>>>>>>> b38b6bbe74771daf4655e0d8ca416a0ba25328ff
   }
 }
