@@ -28,9 +28,9 @@
 
 @media (max-width: 400x) {
   .PageHeader {
-    padding: 1rem 0;
+    padding: 15rem 0;
   }
   .PageHeader-large {
-    padding: 1rem 0;
+    padding: 15rem 0;
   }
 }
