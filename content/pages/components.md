@@ -12,9 +12,9 @@ section2: >-
   ## You can use videos, images and text.
 
 
-  <iframe src="https://drive.google.com/file/d/19sOAgmluvVKqo7tKbtcUUsGdtBG-e0Xq/preview" width="640" height="480" allow="autoplay"></iframe>
-video: https://ucarecdn.com/bb581ee3-9a0e-4d75-8f9d-b1c9ff7eeaeb/
-videoPoster: https://ucarecdn.com/16194872-87cc-4538-829c-28ad39fe5cf6/
+  <iframe src="https://drive.google.com/file/d/1ygqQ5bhGzqAqJd6wn0m0JEbqX2Bm6tFM/preview" width="640" height="480" allow="autoplay"></iframe>
+video: https://ucarecdn.com/f1bd7526-9537-4d8e-bd2d-ce8d113e55b9/
+videoPoster: https://ucarecdn.com/dff89de8-47ff-465a-a799-9cf7cf87b7ac/
 videoTitle: Also background videos, with poster image & title overlay.
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
