@@ -12,7 +12,7 @@ section2: >-
   ## You can use videos, images and text.
 
 
-  <iframe src="https://drive.google.com/file/d/1ygqQ5bhGzqAqJd6wn0m0JEbqX2Bm6tFM/preview" width="1200" height="800" allow="autoplay"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/i-WU3DDRAzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 video: https://ucarecdn.com/f1bd7526-9537-4d8e-bd2d-ce8d113e55b9/
 videoPoster: https://ucarecdn.com/dff89de8-47ff-465a-a799-9cf7cf87b7ac/
 videoTitle: Also background videos, with poster image & title overlay.
