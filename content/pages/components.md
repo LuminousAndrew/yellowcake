@@ -4,13 +4,10 @@ slug: components
 title: Description Page
 featuredImage: https://ucarecdn.com/7c3faf6d-f03d-44a5-9481-688509ba57fd/
 subtitle: Learn more about Portrero ATV Tours
-section1: >-
-  ## This is a container component
+section1: |-
+  ## Portrero's Story
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-
-
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  Portrero's Story
 section2: >-
   ## You can use videos, images and text.
 
