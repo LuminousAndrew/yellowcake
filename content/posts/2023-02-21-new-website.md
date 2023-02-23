@@ -3,6 +3,7 @@ template: SinglePost
 title: New Website
 status: Published
 date: 2023-02-21
+featuredImage: https://ucarecdn.com/ab6462d5-7ee9-4f52-8c0b-24b16bd2ef88/
 excerpt: >-
   As a high school junior with a passion for coding, Andrew Balson was thrilled
   when his teacher returned from a recent trip to Costa Rica with news that the
