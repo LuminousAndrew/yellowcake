@@ -4,10 +4,11 @@ slug: components
 title: Description Page
 featuredImage: https://ucarecdn.com/7c3faf6d-f03d-44a5-9481-688509ba57fd/
 subtitle: Learn more about Portrero ATV Tours
-section1: |-
-  ## Portrero's Story
+section1: >-
+  ## Who We Are:
 
-  Portrero's Story
+
+  We are Portrero ATV Tours, the premier ATV tour company in Costa Rica! We offer a wide variety of exciting and unforgettable ATV tours in the stunning Costa Rican landscape. Our experienced guides will take you on an off-road adventure through lush jungles, breathtaking beaches, and majestic mountain ranges. Our tours are perfect for adventure-seekers of all levels. Whether you’re an experienced ATV driver or just starting out, we have the perfect tour for you. We provide all the necessary safety equipment and instruction, so you can relax and enjoy the ride. Our knowledgeable guides will show you the sights and give you an up-close and personal look at the unique wildlife and scenery of Costa Rica. At Portrero ATV Tours, we take pride in our commitment to safety. We follow all safety protocols and procedures, and our guides are all certified in ATV safety and first aid. We make sure that you have the best possible experience while on tour with us. Whether you’re looking for an exciting adventure or a relaxing day in the sun, Portrero ATV Tours is the perfect choice for an unforgettable experience. Come join us and explore the beauty of Costa Rica from the seat of an ATV!
 section2: >-
   ## You can use videos, images and text.
 
