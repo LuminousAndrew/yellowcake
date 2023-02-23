@@ -15,4 +15,3 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
-# Example contact form
