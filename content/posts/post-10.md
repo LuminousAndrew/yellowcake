@@ -3,7 +3,7 @@ template: SinglePost
 title: Exiting Update!
 status: Published
 date: 2023-02-21
-featuredImage: https://ucarecdn.com/69bcae44-f555-4b56-b08e-bd0f2013654a/-/crop/1634x1690/0,434/-/preview/
+featuredImage: https://ucarecdn.com/884c004f-b45f-4298-9e84-426a2a1f6b1f/
 excerpt: >-
   If you're planning a trip to Costa Rica, you should definitely check out
   Potrero ATV Tours. This amazing ATV tour company has recently made some
