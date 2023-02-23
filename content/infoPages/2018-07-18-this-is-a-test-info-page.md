@@ -1,9 +1,8 @@
 ---
 template: DefaultPage
 slug: test slug
-title: This is a test info page
-featuredImage: >-
-  https://ucarecdn.com/0a485165-65c4-42ee-bf35-b93fbaf0fd2e/-/preview/-/rotate/270/
+title: About Potrero
+featuredImage: https://ucarecdn.com/4b8c6fb2-0bb6-4a0a-b619-4b9679f1714c/
 meta:
   description: test meta description
   title: test meta title
